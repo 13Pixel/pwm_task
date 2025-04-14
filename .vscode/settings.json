@@ -1,0 +1,11 @@
+{
+    "idf.pythonInstallPath": "/home/linuxbrew/.linuxbrew/bin/python3",
+    "idf.flashType": "UART",
+    "idf.port": "/dev/ttyUSB0",
+    "files.associations": {
+        "stdio.h": "c",
+        "pwm_app.h": "c",
+        "typeinfo": "c",
+        "uart_command_handler.h": "c"
+    }
+}
